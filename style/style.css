@@ -1,0 +1,41 @@
+#top
+{
+	background-color:green;
+	height:200px;
+	width:100%;
+}
+#images
+{
+	background-color:red;
+	height:100%;
+	width:30%;
+	float:left;
+}
+#images2
+{
+	background-color:red;
+	height:100%;
+	width:30%;
+	float:right;
+}
+#logo
+{
+	background-color:pink;
+	height:100%;
+	width:40%;
+	float:left;
+}
+#b4
+{
+	background-color:green;
+	width:40%;
+	height:20px;
+	float: left;
+}
+#links
+{
+	background-color:yellow;
+	width:21%;
+	height:5%;
+	float: left;
+}
